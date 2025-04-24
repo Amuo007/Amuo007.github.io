@@ -1,18 +1,8 @@
 ---
 title: "Waterloo - Academic Forms Management System"
-excerpt: "A comprehensive Django web application designed for educational institutions to manage academic forms, approvals, and user authentication. This project implements a multi-department approval workflow system with role-based access control using Microsoft authentication.<br/><br/>The system manages various academic documents including Special Circumstance Forms, Course Drop Forms, FERPA Authorizations, and Texas Residency Affidavits. Forms progress through a customizable approval workflow involving different departments based on configurable business rules.<br/><br/>Key features include:<br/>• Microsoft OAuth integration for secure authentication<br/>• Role-based permissions (superuser, manager, approver, basic user)<br/>• Multi-department approval workflows<br/>• LaTeX-powered PDF generation<br/>• Digital signature management<br/>• External API integration for cross-system form submissions<br/>• Responsive Bootstrap UI with form validation<br/><br/>Technologies used:<br/>• Django 5.1<br/>• Microsoft Authentication Library (MSAL)<br/>• Bootstrap 5<br/>• LaTeX (pdflatex) for document generation<br/>• Docker/Docker Compose for containerization<br/>• SQLite/PostgreSQL databases<br/><br/>This project demonstrates my expertise in designing complex business workflow systems, implementing secure authentication, and creating intuitive user experiences for administrative applications.<br/><br/><div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
-  <iframe 
-    src="https://www.youtube.com/embed/vOjlviS9_8c" 
-    frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen 
-    style="position:absolute;top:0;left:0;width:100%;height:100%;">
-  </iframe>
-</div><br/><img src='https://amuo007.github.io//images/1.png'><br/><img src='https://amuo007.github.io//images/3.png'>"
+excerpt: "A comprehensive Django web application designed for educational institutions to manage academic forms, approvals, and user authentication. This project implements a multi-department approval workflow system with role-based access control using Microsoft authentication.<br/><br/>The system manages various academic documents including Special Circumstance Forms, Course Drop Forms, FERPA Authorizations, and Texas Residency Affidavits. Forms progress through a customizable approval workflow involving different departments based on configurable business rules.<br/><br/>Key features include:<br/>• Microsoft OAuth integration for secure authentication<br/>• Role-based permissions (superuser, manager, approver, basic user)<br/>• Multi-department approval workflows<br/>• LaTeX-powered PDF generation<br/>• Digital signature management<br/>• External API integration for cross-system form submissions<br/>• Responsive Bootstrap UI with form validation<br/><br/>Technologies used:<br/>• Django 5.1<br/>• Microsoft Authentication Library (MSAL)<br/>• Bootstrap 5<br/>• LaTeX (pdflatex) for document generation<br/>• Docker/Docker Compose for containerization<br/>• SQLite/PostgreSQL databases<br/><br/>This project demonstrates my expertise in designing complex business workflow systems, implementing secure authentication, and creating intuitive user experiences for administrative applications.<br/><br/><br/><img src='https://amuo007.github.io//images/1.png'><br/><img src='https://amuo007.github.io//images/3.png'>"
 collection: portfolio
 ---
-
-
 
 ## Overview
 Waterloo is a Django-based web application designed to streamline the management of academic forms and their approval workflows for educational institutions. The system supports various document types with complex multi-department approval routing.
