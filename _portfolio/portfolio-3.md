@@ -1,6 +1,8 @@
 ---
 title: "Waterloo - Academic Forms Management System"
-excerpt: "A comprehensive Django web application for educational institutions to manage academic forms and approval workflows. Features Microsoft OAuth integration, role-based access control, and LaTeX-powered PDF generation.<br/><img src='https://amuo007.github.io//images/1.png'><br/><img src='https://amuo007.github.io//images/3.png'>"
+excerpt: "A comprehensive Django web application for educational institutions to manage academic forms and approval workflows. Features Microsoft OAuth integration, role-based access control, and LaTeX-powered PDF generation.<br/>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vOjlviS9_8c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<img src='https://amuo007.github.io//images/1.png'><br/><img src='https://amuo007.github.io//images/3.png'>"
 collection: portfolio
 ---
 
