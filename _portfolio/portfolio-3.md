@@ -68,6 +68,17 @@ Integration of LaTeX for high-quality PDF generation required careful handling o
 ### User Experience
 Created an intuitive interface that guides users through form submission and approval processes with clear status indicators, validation, and helpful error messages.
 
+Demo Video
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
+  <iframe 
+    src="https://www.youtube.com/embed/vOjlviS9_8c" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen 
+    style="position:absolute;top:0;left:0;width:100%;height:100%;">
+  </iframe>
+</div>
+
 ## Screenshots
 ![Dashboard Screenshot](https://amuo007.github.io//images/1.png)
 
