@@ -13,7 +13,6 @@ The app supports both text-based and voice-enabled interactions, providing a sea
 	•	Innovating Solutions for Daily Productivity<br/>
 
 This app reflects my passion for solving real-world problems by building intuitive, cutting-edge tools.<br/><img src='https://amuo007.github.io//images/pot_2_1.png'><br/>
-<img src='https://amuo007.github.io//images/pot_2_2.png'>
 "
 collection: portfolio
 ---
